@@ -1,6 +1,5 @@
 <div align="center">
   <h2>도서몰 팀프로젝트 프론트엔드 입니다.👋</h2>
-  <img src="https://capsule-render.vercel.app/api?type=soft&text=Be The Story!&color=0:f7f5f5,100:f4bbbb" />
 </div>
 🔭 작업에 사용된 언어 <br> 
 <div>
